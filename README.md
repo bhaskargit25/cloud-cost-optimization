@@ -1,2 +1,1 @@
-# bhaskar-shell-project
-shell script
+cloud-cost-optimization
